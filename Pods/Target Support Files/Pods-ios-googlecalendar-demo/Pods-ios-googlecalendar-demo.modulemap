@@ -1,0 +1,6 @@
+framework module Pods_ios_googlecalendar_demo {
+  umbrella header "Pods-ios-googlecalendar-demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
